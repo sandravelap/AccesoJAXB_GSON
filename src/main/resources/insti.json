@@ -1,0 +1,20 @@
+{
+  "nombre": "IES San Alberto Magno",
+  "alumnos": [
+    {
+      "curso": "SMR1",
+      "nombre": "Lola",
+      "edad": 16
+    },
+    {
+      "curso": "DAM1",
+      "nombre": "Juan",
+      "edad": 20
+    },
+    {
+      "curso": "DAM2",
+      "nombre": "Sofía",
+      "edad": 21
+    }
+  ]
+}

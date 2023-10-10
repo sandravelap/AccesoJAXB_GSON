@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<instituto>
+    <nombre>IES San Alberto</nombre>
+    <alumnos>
+        <alumno curso="SMR1">
+            <nombre>Juan</nombre>
+            <edad>19</edad>
+        </alumno>
+        <alumno curso="DAM2">
+            <nombre>Maria</nombre>
+            <edad>20</edad>
+        </alumno>
+        <alumno curso="SMR2">
+            <nombre>pepe</nombre>
+            <edad>13</edad>
+        </alumno>
+    </alumnos>
+</instituto>
